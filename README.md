@@ -6,7 +6,7 @@ This is Upgrad Assigmnet UPSTAC with 4 Completed Modules.
 3. LabRequestController
 4. ConsultaionService
 
-After this Module is Completed we are not able to see below Changes.
+After this Module is Completed we are now able to see below Changes.
 1. Tester is able to see New Raised Tickets
 2. Assign Tickets to him/herself 
 3. Update LabResult and His observation
